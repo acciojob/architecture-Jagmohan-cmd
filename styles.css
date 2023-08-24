@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+#imageContainer{
+    width: 1100px;
+    background-color: skyblue;
+    box-sizing: border-box;
+    padding: 10px;
+}
+#first-img{
+    width: 80%;
+    height: 400px;
+}
+#col-1{
+    width: 200px;   
+}
+table img{
+    width: 190px;
+    height: max-content;
+    box-sizing: content-box;
+}
+td{
+    text-align: center;
+}
+#col-1{
+    width: 200px;
+}
+#col-2{
+    width: 600px;
+}
+
+#col-3{
+    width: 200px;
+}
