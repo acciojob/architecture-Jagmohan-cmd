@@ -6,7 +6,7 @@
     padding: 10px;
 }
 #first-img{
-    width: 80%;
+    width: 60%;
     height: 400px;
 }
 #col-1{
@@ -19,6 +19,10 @@ table img{
 }
 td{
     text-align: center;
+}
+td p{
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 #col-1{
     width: 200px;
